@@ -12,5 +12,3 @@ De leden van 6BIN zijn:
  - Rafaella
  - Warre
  - ...
-
-main>h1
