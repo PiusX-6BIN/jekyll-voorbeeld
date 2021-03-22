@@ -2,7 +2,9 @@
 layout: default
 ---
 
+{:.MyClass}
 # Dit is de home pagina!
+
 
 Hier vind je alle informatie over 6BIN!
 
