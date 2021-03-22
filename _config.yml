@@ -1,0 +1,9 @@
+baseurl: "/jekyll-voorbeeld"
+
+repo: "https://github.com/PiusX-6BIN/jekyll-voorbeeld"
+github_user: "PiusX-6BIN"
+github_repo: "jekyll-voorbeeld"
+
+collections:
+    members:
+        output: true
