@@ -1,6 +1,6 @@
 ---
 layout: member
-memberImg: "assets/images/ilias.jpg"
+memberImg: "../assets/images/ilias.jpg"
 title: "Ilias"
 ---
 
