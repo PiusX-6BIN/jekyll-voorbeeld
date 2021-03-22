@@ -2,7 +2,6 @@
 layout: default
 ---
 
-{:.MyClass}
 # Dit is de home pagina!
 
 
@@ -13,3 +12,5 @@ De leden van 6BIN zijn:
  - Rafaella
  - Warre
  - ...
+
+main>h1
