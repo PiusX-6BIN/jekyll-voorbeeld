@@ -16,7 +16,11 @@
                 <li>
                     <ul>
                         {% for member in site.members %}
-                        <li>{{member.title}}</li>
+                        <li>
+                            <a href="{{page.url}}">
+                                {{member.title}}
+                            </a>
+                        </li>
                         {% endfor %}
                     </ul>
                 </li>
